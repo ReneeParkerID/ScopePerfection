@@ -1,0 +1,62 @@
+:: StoryTitle
+Scope Perfection
+
+
+:: StoryData
+{
+  "ifid": "8362CBA5-81CB-405A-A035-3DA14425D56C",
+  "format": "Harlowe",
+  "format-version": "3.3.8",
+  "start": "Untitled Passage",
+  "zoom": 1
+}
+
+
+:: Changing textbooks has meant big changes for other courses - maybe it’s time to redesign the course? {"position":"900,800","size":"100,100"}
+A thorough review of the course notes will give you the best answer. **Try again**
+
+
+:: Check the notes one more time. There is a new textbook, but no changes to lectures or assignments. Add to the schedule as a Minor Edit. {"position":"900,550","size":"100,100"}
+**Correct!** A thorough review of the course notes will give you the best answer. With this choice, there is very little chance there will be a change to the scope!
+
+
+:: It could be very little, or it could be lots of changes. So to be safe, add to the schedule as a Major Edit. {"position":"900,675","size":"100,100"}
+A thorough review of the course notes will give you the best answer. **Try again**
+
+
+:: New email! {"position":"750,575","size":"100,100"}
+The ID team is asking for your list of courses for the term. HIN 615 needs to be on that list. What do you do next?
+
+A. [[New textbooks are usually scheduled as Minor Edits. Let’s go with that!]]
+
+B. [[Check the notes one more time. There is a new textbook, but no changes to lectures or assignments. Add to the schedule as a Minor Edit.]]
+
+C. [[It could be very little, or it could be lots of changes. So to be safe, add to the schedule as a Major Edit.]]
+
+D. [[Changing textbooks has meant big changes for other courses - maybe it’s time to redesign the course?]]
+
+
+:: New textbooks are usually scheduled as Minor Edits. Let’s go with that! {"position":"900,425","size":"100,100"}
+A thorough review of the course notes will give you the best answer. ''Try again!''
+
+
+:: Review your notes about courses that ran last term {"position":"750,450","size":"100,100"}
+After reviewing notes from the last instructor, it looks like there is a new textbook for one of your courses: HIN 615.
+
+[[New email!]]
+
+
+
+:: Untitled Passage {"position":"750,325","size":"100,100"}
+As the Program Director, one of your tasks is choosing the correct scope for an upcoming course development. 
+
+[[Review your notes about courses that ran last term]]
+
+
+:: StoryStylesheet [stylesheet]
+tw-story {
+ background-color: white;
+   color: darkslategray;
+  font-family: Futura,Impact,Helvetica,sans-serif;
+ font-size: 175%;
+}
